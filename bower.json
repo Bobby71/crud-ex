@@ -1,0 +1,16 @@
+{
+  "name": "crud-ex",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Bobby71/crud-ex",
+  "authors": [
+    "Bobby Wakeland <bobwakeland@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
